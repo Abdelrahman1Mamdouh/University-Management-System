@@ -125,5 +125,4 @@ L’eseguibile sarà in `publish/`. Distribuisci anche la cartella `Universita/`
 4. Push: `git push origin feature/nome-feature`
 5. Apri una Pull Request
 
-##Author
-Abdelrahman Salaheldin
+## Author: Abdelrahman Salaheldin
