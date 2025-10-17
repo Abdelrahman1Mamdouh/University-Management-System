@@ -1,0 +1,20 @@
+[
+  {
+    "CodiceMatricola": "ddd",
+    "NomeCompleto": "Aurelio Attia",
+    "Id": "2",
+    "Nome": "Aurelio",
+    "Cognome": "Attia",
+    "Email": "A@gmail.com",
+    "Telefono": "1238378"
+  },
+  {
+    "CodiceMatricola": "eee",
+    "NomeCompleto": "Sniper Spider",
+    "Id": "3",
+    "Nome": "Sniper",
+    "Cognome": "Spider",
+    "Email": "Snpe@gmail.com",
+    "Telefono": "91027812837"
+  }
+]

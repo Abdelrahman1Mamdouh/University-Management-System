@@ -1,0 +1,350 @@
+[
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_INFORMATICA",
+        "NomeCognome": "Erasmo Dracula",
+        "Id": "1",
+        "Nome": "Erasmo",
+        "Cognome": "Dracula",
+        "Email": "Dr@gmail.com",
+        "Telefono": "123819"
+      },
+      "ID": "1",
+      "Nome": "Economia2",
+      "DataInizio": "2025-06-17T14:40:21.8613367+02:00",
+      "DataFine": "2025-06-29T14:40:21.854",
+      "DisplayProf": "Erasmo Dracula"
+    },
+    "Studente": {
+      "CodiceMatricola": "sss",
+      "NomeCompleto": "Zool Hemdan",
+      "Id": "1",
+      "Nome": "Zool",
+      "Cognome": "Hemdan",
+      "Email": "Z@gmail.com",
+      "Telefono": "123123123"
+    },
+    "DataEsame": "2025-06-29T14:41:09.619",
+    "Voto": 9
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_INFORMATICA",
+        "NomeCognome": "Erasmo Dracula",
+        "Id": "1",
+        "Nome": "Erasmo",
+        "Cognome": "Dracula",
+        "Email": "Dr@gmail.com",
+        "Telefono": "123819"
+      },
+      "ID": "1",
+      "Nome": "Economia2",
+      "DataInizio": "2025-06-17T14:40:21.8613367+02:00",
+      "DataFine": "2025-06-29T14:40:21.854",
+      "DisplayProf": "Erasmo Dracula"
+    },
+    "Studente": {
+      "CodiceMatricola": "ddd",
+      "NomeCompleto": "Aurelio Attia",
+      "Id": "2",
+      "Nome": "Aurelio",
+      "Cognome": "Attia",
+      "Email": "A@gmail.com",
+      "Telefono": "1238378"
+    },
+    "DataEsame": "2025-06-29T14:41:21.137",
+    "Voto": 8
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_INFORMATICA",
+        "NomeCognome": "Erasmo Dracula",
+        "Id": "1",
+        "Nome": "Erasmo",
+        "Cognome": "Dracula",
+        "Email": "Dr@gmail.com",
+        "Telefono": "123819"
+      },
+      "ID": "1",
+      "Nome": "Economia2",
+      "DataInizio": "2025-06-17T14:40:21.8613367+02:00",
+      "DataFine": "2025-06-29T14:40:21.854",
+      "DisplayProf": "Erasmo Dracula"
+    },
+    "Studente": {
+      "CodiceMatricola": "eee",
+      "NomeCompleto": "Sniper Spider",
+      "Id": "3",
+      "Nome": "Sniper",
+      "Cognome": "Spider",
+      "Email": "Snpe@gmail.com",
+      "Telefono": "91027812837"
+    },
+    "DataEsame": "2025-06-29T14:41:38.709",
+    "Voto": 3
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_ELETRONICA",
+        "NomeCognome": "Zez El bez",
+        "Id": "2",
+        "Nome": "Zez",
+        "Cognome": "El bez",
+        "Email": "Bezzo@gmail.com",
+        "Telefono": "8989123"
+      },
+      "ID": "2",
+      "Nome": "Bezzamento",
+      "DataInizio": "2025-06-20T14:40:21.854",
+      "DataFine": "2025-07-03T14:40:21.854",
+      "DisplayProf": "Zez El bez"
+    },
+    "Studente": {
+      "CodiceMatricola": "ddd",
+      "NomeCompleto": "Aurelio Attia",
+      "Id": "2",
+      "Nome": "Aurelio",
+      "Cognome": "Attia",
+      "Email": "A@gmail.com",
+      "Telefono": "1238378"
+    },
+    "DataEsame": "2025-06-29T14:41:47.208",
+    "Voto": 9
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_ELETRONICA",
+        "NomeCognome": "Zez El bez",
+        "Id": "2",
+        "Nome": "Zez",
+        "Cognome": "El bez",
+        "Email": "Bezzo@gmail.com",
+        "Telefono": "8989123"
+      },
+      "ID": "2",
+      "Nome": "Bezzamento",
+      "DataInizio": "2025-06-20T14:40:21.854",
+      "DataFine": "2025-07-03T14:40:21.854",
+      "DisplayProf": "Zez El bez"
+    },
+    "Studente": {
+      "CodiceMatricola": "sss",
+      "NomeCompleto": "Zool Hemdan",
+      "Id": "1",
+      "Nome": "Zool",
+      "Cognome": "Hemdan",
+      "Email": "Z@gmail.com",
+      "Telefono": "123123123"
+    },
+    "DataEsame": "2025-06-29T14:41:54.317",
+    "Voto": 3
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_ELETRONICA",
+        "NomeCognome": "Zez El bez",
+        "Id": "2",
+        "Nome": "Zez",
+        "Cognome": "El bez",
+        "Email": "Bezzo@gmail.com",
+        "Telefono": "8989123"
+      },
+      "ID": "2",
+      "Nome": "Bezzamento",
+      "DataInizio": "2025-06-20T14:40:21.854",
+      "DataFine": "2025-07-03T14:40:21.854",
+      "DisplayProf": "Zez El bez"
+    },
+    "Studente": {
+      "CodiceMatricola": "eee",
+      "NomeCompleto": "Sniper Spider",
+      "Id": "3",
+      "Nome": "Sniper",
+      "Cognome": "Spider",
+      "Email": "Snpe@gmail.com",
+      "Telefono": "91027812837"
+    },
+    "DataEsame": "2025-06-29T14:42:04.254",
+    "Voto": 6
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_INFORMATICA",
+        "NomeCognome": "Erasmo Dracula",
+        "Id": "1",
+        "Nome": "Erasmo",
+        "Cognome": "Dracula",
+        "Email": "Dr@gmail.com",
+        "Telefono": "123819"
+      },
+      "ID": "1",
+      "Nome": "Economia2",
+      "DataInizio": "2025-06-17T14:40:21.8613367+02:00",
+      "DataFine": "2025-06-29T14:40:21.854",
+      "DisplayProf": "Erasmo Dracula"
+    },
+    "Studente": {
+      "CodiceMatricola": "sss",
+      "NomeCompleto": "Zool Hemdan",
+      "Id": "1",
+      "Nome": "Zool",
+      "Cognome": "Hemdan",
+      "Email": "Z@gmail.com",
+      "Telefono": "123123123"
+    },
+    "DataEsame": "2025-06-17T15:03:33.1644499+02:00",
+    "Voto": 11
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_INFORMATICA",
+        "NomeCognome": "Erasmo Dracula",
+        "Id": "1",
+        "Nome": "Erasmo",
+        "Cognome": "Dracula",
+        "Email": "Dr@gmail.com",
+        "Telefono": "123819"
+      },
+      "ID": "1",
+      "Nome": "Economia2",
+      "DataInizio": "2025-06-17T14:40:21.8613367+02:00",
+      "DataFine": "2025-06-29T14:40:21.854",
+      "DisplayProf": "Erasmo Dracula"
+    },
+    "Studente": {
+      "CodiceMatricola": "ddd",
+      "NomeCompleto": "Aurelio Attia",
+      "Id": "2",
+      "Nome": "Aurelio",
+      "Cognome": "Attia",
+      "Email": "A@gmail.com",
+      "Telefono": "1238378"
+    },
+    "DataEsame": "2025-06-17T15:04:21.9997526+02:00",
+    "Voto": 11
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_ELETRONICA",
+        "NomeCognome": "Zez El bez",
+        "Id": "2",
+        "Nome": "Zez",
+        "Cognome": "El bez",
+        "Email": "Bezzo@gmail.com",
+        "Telefono": "8989123"
+      },
+      "ID": "2",
+      "Nome": "Bezzamento",
+      "DataInizio": "2025-06-20T14:40:21.854",
+      "DataFine": "2025-07-03T14:40:21.854",
+      "DisplayProf": "Zez El bez"
+    },
+    "Studente": {
+      "CodiceMatricola": "sss",
+      "NomeCompleto": "Zool Hemdan",
+      "Id": "1",
+      "Nome": "Zool",
+      "Cognome": "Hemdan",
+      "Email": "Z@gmail.com",
+      "Telefono": "123123123"
+    },
+    "DataEsame": "2025-06-01T15:09:57.319",
+    "Voto": 10
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_INFORMATICA",
+        "NomeCognome": "jkj kdjfk",
+        "Id": "67",
+        "Nome": "jkj",
+        "Cognome": "kdjfk",
+        "Email": "aoda",
+        "Telefono": "313"
+      },
+      "ID": "5",
+      "Nome": "Bezzamento",
+      "DataInizio": "2025-06-20T14:40:21.854",
+      "DataFine": "2025-07-03T14:40:21.854",
+      "DisplayProf": "jkj kdjfk"
+    },
+    "Studente": {
+      "CodiceMatricola": "ddd",
+      "NomeCompleto": "Aurelio Attia",
+      "Id": "2",
+      "Nome": "Aurelio",
+      "Cognome": "Attia",
+      "Email": "A@gmail.com",
+      "Telefono": "1238378"
+    },
+    "DataEsame": "2025-06-28T11:10:33.187",
+    "Voto": 5
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_INFORMATICA",
+        "NomeCognome": "jkj kdjfk",
+        "Id": "67",
+        "Nome": "jkj",
+        "Cognome": "kdjfk",
+        "Email": "aoda",
+        "Telefono": "313"
+      },
+      "ID": "5",
+      "Nome": "Bezzamento",
+      "DataInizio": "2025-06-20T14:40:21.854",
+      "DataFine": "2025-07-03T14:40:21.854",
+      "DisplayProf": "jkj kdjfk"
+    },
+    "Studente": {
+      "CodiceMatricola": "ddd",
+      "NomeCompleto": "Aurelio Attia",
+      "Id": "2",
+      "Nome": "Aurelio",
+      "Cognome": "Attia",
+      "Email": "A@gmail.com",
+      "Telefono": "1238378"
+    },
+    "DataEsame": "2025-06-18T11:10:57.6052965+02:00",
+    "Voto": 8
+  },
+  {
+    "Corso": {
+      "Prof": {
+        "materia": "INGEGNERIA_ELETRONICA",
+        "NomeCognome": "Zez Bezzo",
+        "Id": "2",
+        "Nome": "Zez",
+        "Cognome": "Bezzo",
+        "Email": "Bezzo@gmail.com",
+        "Telefono": "8989123"
+      },
+      "ID": "5",
+      "Nome": "Bezzamento",
+      "DataInizio": "2025-06-20T14:40:21.854",
+      "DataFine": "2025-07-03T14:40:21.854",
+      "DisplayProf": "Zez Bezzo"
+    },
+    "Studente": {
+      "CodiceMatricola": "eee",
+      "NomeCompleto": "Sniper Spider",
+      "Id": "3",
+      "Nome": "Sniper",
+      "Cognome": "Spider",
+      "Email": "Snpe@gmail.com",
+      "Telefono": "91027812837"
+    },
+    "DataEsame": "2025-06-21T16:52:56.053",
+    "Voto": 6
+  }
+]
