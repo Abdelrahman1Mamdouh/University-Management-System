@@ -125,15 +125,5 @@ L’eseguibile sarà in `publish/`. Distribuisci anche la cartella `Universita/`
 4. Push: `git push origin feature/nome-feature`
 5. Apri una Pull Request
 
-## 📜 Licenza
-Aggiungi una licenza (es. MIT) in `LICENSE` se intendi rendere il progetto open source.
-
----
-
-Se vuoi, posso:
-
-- aggiungere **screenshot** delle form al README
-- creare una **release** con gli eseguibili pubblicati
-- generare anche un **README in inglese**
-
-Buon lavoro! 🎓🖥️
+##Author
+Abdelrahman Salaheldin
