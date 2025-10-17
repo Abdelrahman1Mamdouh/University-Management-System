@@ -126,10 +126,7 @@ Distribute it together with the `Universita/` JSON data folder.
 4. Push the branch: `git push origin feature/your-feature`  
 5. Open a Pull Request
 
-## 📜 License
-Add a `LICENSE` file (MIT recommended) if you plan to make this project open source.
-
----
+## Author: Abdelrahman Salaheldin
 
 If you’d like, I can also:
 - Add **screenshots** of the UI
